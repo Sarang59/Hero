@@ -27,27 +27,27 @@ The application allows users to:
 
 ## Tech Stack
 
-Vue JS - Frontend framework for building the user interface
-Javascript - Application logic and interactivity
-Firebase - Backend-as-a-Service platform used for:
-Firebase Realtime Database - Data storage
-Firebase Authentication - User authentication and login
-Firebase Storage - File and media storage
-Firebase Cloud Functions - Serverless backend logic
+1. Vue JS - Frontend framework for building the user interface
+2. Javascript - Application logic and interactivity
+3. Firebase - Backend-as-a-Service platform used for:
+4. Firebase Realtime Database - Data storage
+5. Firebase Authentication - User authentication and login
+6. Firebase Storage - File and media storage
+7. Firebase Cloud Functions - Serverless backend logic
 
 ## APIs and Libraries
 
-Mailgun - Email service for sending notifications
-Mapbox - Maps and location services
-FullCalendar - Calendar and scheduling interface
-Chart.js - Data visualization and charts
-jsPDF - PDF generation
-Gemini - AI-powered health advice and chatbot functionality
+1. Mailgun - Email service for sending notifications
+2. Mapbox - Maps and location services
+3. FullCalendar - Calendar and scheduling interface
+4. Chart.js - Data visualization and charts
+5. jsPDF - PDF generation
+6. Gemini - AI-powered health advice and chatbot functionality
 
 ## Tools
 
-Github - Version control and project repository
-Visual Studio Code - Code editor and development environment
+1. Github - Version control and project repository
+2. Visual Studio Code - Code editor and development environment
 
 ## Architecture
 
@@ -72,12 +72,14 @@ components
 |-> ThemeStore.js
 |-> ThemeToggle.vue
 |-> ToggleMode.vue
+
 |
 router
 |-> index.js
+
 |
 views
-|->AboutUsView.vue
+|-> AboutUsView.vue
 |-> AppointmentBooking.vue
 |-> DashboardView.vue
 |-> DosDontsView.vue
