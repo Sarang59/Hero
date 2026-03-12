@@ -1,0 +1,49 @@
+{
+  "symptoms": [
+    {
+      "name": "Headache",
+      "advice": [
+        "Drink plenty of water",
+        "Rest in a quiet environment",
+        "Avoid excessive screen time"
+      ],
+      "severity": "low"
+    },
+    {
+      "name": "Fever",
+      "advice": [
+        "Stay hydrated",
+        "Take adequate rest",
+        "Monitor body temperature regularly"
+      ],
+      "severity": "medium"
+    },
+    {
+      "name": "Fatigue",
+      "advice": [
+        "Ensure proper sleep",
+        "Maintain a balanced diet",
+        "Avoid overworking"
+      ],
+      "severity": "low"
+    },
+    {
+      "name": "Stress",
+      "advice": [
+        "Practice breathing exercises",
+        "Take short breaks",
+        "Try meditation or physical activity"
+      ],
+      "severity": "low"
+    },
+    {
+      "name": "Stomach Pain",
+      "advice": [
+        "Avoid heavy or spicy foods",
+        "Drink warm water",
+        "Rest for a while"
+      ],
+      "severity": "medium"
+    }
+  ]
+}
