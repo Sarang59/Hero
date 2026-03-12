@@ -83,6 +83,7 @@
               <li><a class="dropdown-item" href="/maps">Closest Clinic</a></li>
               <li><a class="dropdown-item" href="/dosDonts">Dos And Don'ts</a></li>
               <li><a class="dropdown-item" href="/handlePeerPressure">Handle Pressure</a></li>
+              <li><a class="dropdown-item" href="/symptomsChecker">Symptoms Checker</a></li>
             </ul>
           </li>
 

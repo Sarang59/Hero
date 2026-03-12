@@ -14,6 +14,7 @@ import LearningView from '@/views/LearningView.vue'
 import AppointmentBooking from '@/views/AppointmentBooking.vue'
 import MapView from '@/views/MapView.vue'
 import SettingsView from '@/views/SettingsView.vue'
+import SymptomsCheckerView from '@/views/SymptomsCheckerView.vue'
 
 const routes = [
   {
@@ -91,6 +92,11 @@ const routes = [
     name: "Settings",
     component: SettingsView
   },
+  {
+    path: "/symptomsChecker",
+    name: "SymptomsChecker",
+    component: SymptomsCheckerView
+  }
 ]
 
 const router = createRouter({

@@ -7,7 +7,7 @@
 <template>
     <div id="header-style">
         
-        <router-link to="/dashboard" style="text-decoration: none;">
+        <router-link to="/" style="text-decoration: none;">
             <div class="logo-container">
                 <img :src="Logo" alt="Logo" height="50" width="50" />
                 <h1 id="h1-style" class="mb-0 ms-2">Eat Smart Hub</h1>
