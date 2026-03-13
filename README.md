@@ -3,6 +3,10 @@
 This project helps you get started developing a modern, full-featured Vue 3 application built with Vite.
 EatSmartHub integrates powerful APIs and libraries for authentication, data visualization, geolocation, accessibility, and deployment.
 
+## Why this project is relevant for enterprise automation roles.
+
+Eat Smart Hub is relevant for enterprise automation roles because it demonstrates the ability to design and build end-to-end applications that automate user workflows, such as symptom checking, appointment booking, and clinic discovery. It also shows experience integrating APIs, cloud services like Firebase, and frontend frameworks like Vue.js, which are common in enterprise systems used to automate business processes and improve user decision-making.
+
 ## Problem
 
 Many people want to maintain a healthy diet but face several challenges:
