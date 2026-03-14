@@ -1,5 +1,7 @@
 # EatSmartHub
 
+[![Eat Smart Hub CI](https://github.com/Sarang59/Hero/actions/workflows/node-ci.yml/badge.svg)](https://github.com/Sarang59/Hero/actions/workflows/node-ci.yml)
+
 This project helps you get started developing a modern, full-featured Vue 3 application built with Vite.
 EatSmartHub integrates powerful APIs and libraries for authentication, data visualization, geolocation, accessibility, and deployment.
 
