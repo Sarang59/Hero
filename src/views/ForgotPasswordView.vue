@@ -104,7 +104,7 @@
     const resetPassword = async () => {
         const errorMsg = validatePassword();
         if (errorMsg) {
-            errorMessage = errorMsg;
+            errorMessage.value = errorMsg;
             return;
         }
 

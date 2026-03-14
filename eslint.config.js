@@ -23,4 +23,20 @@ export default defineConfig([
   js.configs.recommended,
   ...pluginVue.configs['flat/essential'],
   skipFormatting,
+
+  {
+    ignores: [
+      "functions/**",
+      "dist/**",
+      "node_modules/**"
+    ]
+  },
+
+  {
+    rules: {
+      "vue/multi-word-component-names": "off",
+      "no-unused-vars": "off",
+      "vue/no-v-text-v-html-on-component": "off"
+    }
+  }
 ])

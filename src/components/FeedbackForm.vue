@@ -75,7 +75,7 @@ const getUserDetails = async () => {
       console.log('No such document!')
     }
   } else {
-    email = ''
+    feedbackFormData.value.email = ''
   }
 }
 
