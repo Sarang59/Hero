@@ -1,5 +1,5 @@
 <script setup>
-    import { ref, computed } from "vue"
+    import { ref, computed, onMounted } from "vue"
     import Header from '../components/Header.vue'
     import Footer from '../components/Footer.vue'
     import FloatingControls from '@/components/FloatingControls.vue'
@@ -100,6 +100,10 @@
         console.log("Test 8", adviceList.value, needsDoctor.value)
 
     }
+
+    onMounted(() => {
+        document.title = "Symptom Checker | Eat Smart Hub"
+    })
 </script>
 
 <template>
